@@ -73,6 +73,8 @@ Moving forward, BlackMarker is set to expand its horizons. We plan to refine our
 
 - [@sajanpoudel](https://github.com/sajanpoudel)
 
+- [@aayush-jpg](https://github.com/Aayush-jpg)
+
 ## Appendix  
 For further reference and detailed documentation on the APIs used within this project, please consult the following resources: -  
 
